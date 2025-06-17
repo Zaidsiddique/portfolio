@@ -53,10 +53,6 @@ body{
     list-style: none;
 }
 
-nav > ul{
-    background-color: rgb(110, 108, 108);
-}
-
 .no-list-style li {
     font-size:1.3rem;
 }
